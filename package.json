@@ -1,6 +1,6 @@
 {
-  "name": "waterline",
-  "description": "An ORM for Node.js and the Sails framework",
+  "name": "waterline-gong",
+  "description": "A fork of Waterline for minor personal tinkering.",
   "version": "0.10.0-rc15",
   "homepage": "http://github.com/balderdashy/waterline",
   "contributors": [
