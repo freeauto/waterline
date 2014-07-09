@@ -1,7 +1,7 @@
 {
   "name": "waterline-gong",
   "description": "A fork of Waterline for minor personal tinkering.",
-  "version": "0.10.0-rc15",
+  "version": "0.10.0-rc16",
   "homepage": "http://github.com/balderdashy/waterline",
   "contributors": [
     {
